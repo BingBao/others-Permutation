@@ -1,0 +1,2954 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.7)  1 NOV 2017 19:26
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**test.tex
+(./test.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/ctexart.cls (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2017/05/13 L3 programming layer (loader) 
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2017/05/13 L3 programming layer (code)
+\c_max_int=\count79
+\l_tmpa_int=\count80
+\l_tmpb_int=\count81
+\g_tmpa_int=\count82
+\g_tmpb_int=\count83
+\g__prg_map_int=\count84
+\c_log_iow=\count85
+\l_iow_line_count_int=\count86
+\l__iow_line_target_int=\count87
+\l__iow_one_indent_int=\count88
+\l__iow_indent_int=\count89
+\c_zero_dim=\dimen102
+\c_max_dim=\dimen103
+\l_tmpa_dim=\dimen104
+\l_tmpb_dim=\dimen105
+\g_tmpa_dim=\dimen106
+\g_tmpb_dim=\dimen107
+\c_zero_skip=\skip41
+\c_max_skip=\skip42
+\l_tmpa_skip=\skip43
+\l_tmpb_skip=\skip44
+\g_tmpa_skip=\skip45
+\g_tmpb_skip=\skip46
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count90
+\c__fp_leading_shift_int=\count91
+\c__fp_middle_shift_int=\count92
+\c__fp_trailing_shift_int=\count93
+\c__fp_big_leading_shift_int=\count94
+\c__fp_big_middle_shift_int=\count95
+\c__fp_big_trailing_shift_int=\count96
+\c__fp_Bigg_leading_shift_int=\count97
+\c__fp_Bigg_middle_shift_int=\count98
+\c__fp_Bigg_trailing_shift_int=\count99
+\c__fp_rand_size_int=\count100
+\c__fp_rand_four_int=\count101
+\c__fp_rand_eight_int=\count102
+\l__sort_length_int=\count103
+\l__sort_min_int=\count104
+\l__sort_top_int=\count105
+\l__sort_max_int=\count106
+\l__sort_true_max_int=\count107
+\l__sort_block_int=\count108
+\l__sort_begin_int=\count109
+\l__sort_end_int=\count110
+\l__sort_A_int=\count111
+\l__sort_B_int=\count112
+\l__sort_C_int=\count113
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+\l__box_top_dim=\dimen108
+\l__box_bottom_dim=\dimen109
+\l__box_left_dim=\dimen110
+\l__box_right_dim=\dimen111
+\l__box_top_new_dim=\dimen112
+\l__box_bottom_new_dim=\dimen113
+\l__box_left_new_dim=\dimen114
+\l__box_right_new_dim=\dimen115
+\l__box_internal_box=\box31
+\l__coffin_internal_box=\box32
+\l__coffin_internal_dim=\dimen116
+\l__coffin_offset_x_dim=\dimen117
+\l__coffin_offset_y_dim=\dimen118
+\l__coffin_x_dim=\dimen119
+\l__coffin_y_dim=\dimen120
+\l__coffin_x_prime_dim=\dimen121
+\l__coffin_y_prime_dim=\dimen122
+\c_empty_coffin=\box33
+\l__coffin_aligned_coffin=\box34
+\l__coffin_aligned_internal_coffin=\box35
+\l_tmpa_coffin=\box36
+\l_tmpb_coffin=\box37
+\l__coffin_display_coffin=\box38
+\l__coffin_display_coord_coffin=\box39
+\l__coffin_display_pole_coffin=\box40
+\l__coffin_display_offset_dim=\dimen123
+\l__coffin_display_x_dim=\dimen124
+\l__coffin_display_y_dim=\dimen125
+\l__coffin_bounding_shift_dim=\dimen126
+\l__coffin_left_corner_dim=\dimen127
+\l__coffin_right_corner_dim=\dimen128
+\l__coffin_bottom_corner_dim=\dimen129
+\l__coffin_top_corner_dim=\dimen130
+\l__coffin_scaled_total_height_dim=\dimen131
+\l__coffin_scaled_width_dim=\dimen132
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count114
+\l__driver_tmp_box=\box41
+))
+Document Class: ctexart 2017/04/01 v2.4.9 Chinese adapter for class article (CTEX)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2017/05/13 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count115
+\g__xparse_grabber_int=\count116
+\l__xparse_m_args_int=\count117
+\l__xparse_mandatory_args_int=\count118
+\l__xparse_v_nesting_int=\count119
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2017/05/13 LaTeX2e option processing using LaTeX3 keys
+)
+\g__file_internal_ior=\read1
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2017/04/01 v2.4.9 Document and package hooks (CTEX)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2017/04/01 v2.4.9 Patching commands (CTEX)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count120
+\l__ctex_tmp_box=\box42
+\l__ctex_tmp_dim=\dimen133
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2017/04/01 v2.4.9 Option configuration file (CTEX)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count121
+\c@section=\count122
+\c@subsection=\count123
+\c@subsubsection=\count124
+\c@paragraph=\count125
+\c@subparagraph=\count126
+\c@figure=\count127
+\c@table=\count128
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2017/04/01 v2.4.9 (pdf)LaTeX adapter (CTEX)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box43
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count129
+\CJKpunct@cntb=\count130
+\CJKpunct@cntc=\count131
+\CJKpunct@cntd=\count132
+\CJKpunct@cnte=\count133
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2015/04/18 3.8.0
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/standard.bdg
+File: standard.bdg 2015/04/18 4.8.4
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2017/04/01 v2.4.9 Space info for CJKpunct (CTEX)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+Package: CJKulem 2015/04/18 4.8.4
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box44
+\UL@hyphenbox=\box45
+\UL@skip=\skip49
+\UL@hook=\toks14
+\UL@height=\dimen135
+\UL@pe=\count134
+\UL@pixel=\dimen136
+\ULC@box=\box46
+Package: ulem 2012/05/18
+\ULdepth=\dimen137
+)
+\UL@lastkern=\dimen138
+\CJK@skip=\skip50
+)
+\CJK@fntefSkip=\skip51
+\CJK@nest=\count135
+\CJK@fntefDimen=\dimen139
+\CJK@underdotBox=\box47
+\CJK@ULbox=\box48
+\CJK@underanyskip=\dimen140
+)
+\ccwd=\dimen141
+\l__ctex_ccglue_skip=\skip52
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ctexset with sig. '' on line 387.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXsetup with sig. '+o>{\TrimSpaces }m' on line 393.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXoptions with sig. '+o' on line 399.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXsetfont with sig. '' on line 417.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ziju with sig. 'm' on line 489.
+.................................................
+\l__ctex_ziju_dim=\dimen142
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXindent with sig. '' on line 530.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXnoindent with sig. '' on line 536.
+.................................................
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2016/05/14 v2.4 Typesetting numbers with Chinese glyphs
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumber with sig. '+o+m' on line 50.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumberwithoptions with sig. '+m+m' on line 57.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnum with sig. '+o+m' on line 111.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumwithoptions with sig. '+m+m' on line 118.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdig with sig. '+o+m' on line 297.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdigwithoptions with sig. '+m+m' on line 304.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdigits with sig. '+s+o+m' on line 318.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdigitswithoptions with sig. '+m+m+m' on line 325.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhdate with sig. '+s+m' on line 384.
+.................................................
+\l__zhnum_scale_int=\count136
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumExtendScaleMap with sig. '>{\TrimSpaces }+o+m' on
+. line 506.
+.................................................
+\l__zhnum_byte_min_int=\count137
+\l__zhnum_byte_max_int=\count138
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zhnumsetup with sig. '+m' on line 938.
+.................................................
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/zhnumber/zhnumber-gbk.cfg
+File: zhnumber-gbk.cfg 2016/05/14 v2.4 Chinese numerals with GBK encoding
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXnumber with sig. 'mm' on line 553.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTEXdigits with sig. 'mm' on line 555.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ctex_assign_heading_name:nn with sig. 'm>{\SplitArgument
+. {\c_one }{,}}+m' on line 686.
+.................................................
+\l__ctex_heading_skip=\skip53
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \partmark with sig. 'm' on line 717.
+.................................................
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \refstepcounter with sig. 'm' on line 1208.
+.................................................
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese-article.def
+File: ctex-scheme-chinese-article.def 2017/04/01 v2.4.9 Chinese scheme for article (CTEX)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex-name-gbk.cfg
+File: ctex-name-gbk.cfg 2017/04/01 v2.4.9 Caption with encoding GBK (CTEX)
+))
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \zihao with sig. 'm' on line 1211.
+.................................................
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2017/04/01 v2.4.9 c5size option (CTEX)
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \CTeX with sig. '' on line 1315.
+.................................................
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def
+File: ctex-fontset-mac.def 2017/04/01 v2.4.9 Mac OS X fonts definition (CTEX)
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-mac.def:47: Critical ctex error: "fontset-unavailable"
+! 
+! CTeX fontset `mac' is unavailable in current mode.
+! 
+! See the ctex documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.47   }
+        
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| Reading the current file 'ctex-fontset-mac.def' will stop.
+|...............................................
+
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2017/04/01 v2.4.9 Configuration file (CTEX)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen143
+\extrarowheight=\dimen144
+\NC@list=\toks15
+\extratabsurround=\skip54
+\backup@length=\skip55
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count139
+))
+\Gin@req@height=\dimen145
+\Gin@req@width=\dimen146
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count140
+\rotFPtop=\skip56
+\rotFPbot=\skip57
+\rot@float@box=\box49
+\rot@mess@toks=\toks17
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2016/12/05 v3.7 programmable bibliographies (PK/JW/AB)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count141
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))) (/usr/local/texlive/2017/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count142
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2017/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write3
+\integerpart=\count143
+\decimalpart=\count144
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+)
+\c@tabx@nest=\count145
+\c@listtotal=\count146
+\c@listcount=\count147
+\c@liststart=\count148
+\c@liststop=\count149
+\c@citecount=\count150
+\c@citetotal=\count151
+\c@multicitecount=\count152
+\c@multicitetotal=\count153
+\c@instcount=\count154
+\c@maxnames=\count155
+\c@minnames=\count156
+\c@maxitems=\count157
+\c@minitems=\count158
+\c@citecounter=\count159
+\c@savedcitecounter=\count160
+\c@uniquelist=\count161
+\c@uniquename=\count162
+\c@refsection=\count163
+\c@refsegment=\count164
+\c@maxextratitle=\count165
+\c@maxextratitleyear=\count166
+\c@maxextrayear=\count167
+\c@maxextraalpha=\count168
+\c@abbrvpenalty=\count169
+\c@highnamepenalty=\count170
+\c@lownamepenalty=\count171
+\c@maxparens=\count172
+\c@parenlevel=\count173
+\blx@tempcnta=\count174
+\blx@tempcntb=\count175
+\blx@tempcntc=\count176
+\blx@maxsection=\count177
+\blx@maxsegment@0=\count178
+\blx@notetype=\count179
+\blx@parenlevel@text=\count180
+\blx@parenlevel@foot=\count181
+\blx@sectionciteorder@0=\count182
+\labelnumberwidth=\skip58
+\labelalphawidth=\skip59
+\biblabelsep=\skip60
+\bibitemsep=\skip61
+\bibnamesep=\skip62
+\bibinitsep=\skip63
+\bibparsep=\skip64
+\bibhang=\skip65
+\blx@bcfin=\read2
+\blx@bcfout=\write4
+\c@mincomprange=\count183
+\c@maxcomprange=\count184
+\c@mincompwidth=\count185
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/blx-dm.def)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count186
+\c@savedafterword=\count187
+\c@annotator=\count188
+\c@savedannotator=\count189
+\c@author=\count190
+\c@savedauthor=\count191
+\c@bookauthor=\count192
+\c@savedbookauthor=\count193
+\c@commentator=\count194
+\c@savedcommentator=\count195
+\c@editor=\count196
+\c@savededitor=\count197
+\c@editora=\count198
+\c@savededitora=\count199
+\c@editorb=\count266
+\c@savededitorb=\count267
+\c@editorc=\count268
+\c@savededitorc=\count269
+\c@foreword=\count270
+\c@savedforeword=\count271
+\c@holder=\count272
+\c@savedholder=\count273
+\c@introduction=\count274
+\c@savedintroduction=\count275
+\c@namea=\count276
+\c@savednamea=\count277
+\c@nameb=\count278
+\c@savednameb=\count279
+\c@namec=\count280
+\c@savednamec=\count281
+\c@translator=\count282
+\c@savedtranslator=\count283
+\c@shortauthor=\count284
+\c@savedshortauthor=\count285
+\c@shorteditor=\count286
+\c@savedshorteditor=\count287
+\c@labelname=\count288
+\c@savedlabelname=\count289
+\c@institution=\count290
+\c@savedinstitution=\count291
+\c@lista=\count292
+\c@savedlista=\count293
+\c@listb=\count294
+\c@savedlistb=\count295
+\c@listc=\count296
+\c@savedlistc=\count297
+\c@listd=\count298
+\c@savedlistd=\count299
+\c@liste=\count300
+\c@savedliste=\count301
+\c@listf=\count302
+\c@savedlistf=\count303
+\c@location=\count304
+\c@savedlocation=\count305
+\c@organization=\count306
+\c@savedorganization=\count307
+\c@origlocation=\count308
+\c@savedoriglocation=\count309
+\c@origpublisher=\count310
+\c@savedorigpublisher=\count311
+\c@publisher=\count312
+\c@savedpublisher=\count313
+\c@language=\count314
+\c@savedlanguage=\count315
+\c@pageref=\count316
+\c@savedpageref=\count317
+\shorthandwidth=\skip66
+\shortjournalwidth=\skip67
+\shortserieswidth=\skip68
+\shorttitlewidth=\skip69
+\shortauthorwidth=\skip70
+\shorteditorwidth=\skip71
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2016/12/05 v3.7 biblatex compatibility (PK/JW/AB)
+\c@textcitecount=\count318
+\c@textcitetotal=\count319
+\c@textcitemaxnames=\count320
+\c@biburlnumpenalty=\count321
+\c@biburlucpenalty=\count322
+\c@biburllcpenalty=\count323
+\c@smartand=\count324
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2016/12/05 v3.7 biblatex bibliography style (PK/JW/AB)
+\c@bbx:relatedcount=\count325
+\c@bbx:relatedtotal=\count326
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2016/12/05 v3.7 biblatex citation style (PK/JW/AB)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip72
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen147
+)) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count327
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count328
+\leftroot@=\count329
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count330
+\DOTSCASE@=\count331
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count332
+\c@MaxMatrixCols=\count333
+\dotsspace@=\muskip17
+\c@parentequation=\count334
+\dspbrk@lvl=\count335
+\tag@help=\toks19
+\row@=\count336
+\column@=\count337
+\maxfields@=\count338
+\andhelp@=\toks20
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks21
+\multlinegap=\skip73
+\multlinetaggap=\skip74
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count339
+\c@ALC@line=\count340
+\c@ALC@rem=\count341
+\c@ALC@depth=\count342
+\ALC@tlm=\skip75
+\algorithmicindent=\skip76
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count343
+\float@exts=\toks23
+\float@box=\box52
+\@float@everytoks=\toks24
+\@floatcapt=\box53
+)
+\@float@every@algorithm=\toks25
+\c@algorithm=\count344
+)
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2016/12/05 v3.7 biblatex localization (PK/JW/AB)
+)
+\@quotelevel=\count345
+\@quotereset=\count346
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/extended.enc
+File: extended.enc 2015/04/18 4.8.4
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/extended.chr
+File: extended.chr 2015/04/18 4.8.4
+)
+
+LaTeX Warning: Unused global option(s):
+    [6pt].
+
+(/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing \endcsname inserted.
+<to be read again> 
+                   \CJK@disableMakeUppercase 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Argument of \CJK@XX has an extra }.
+<inserted text> 
+                \par 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+LaTeX Font Info:    Try loading font information for C19+song on input line 45.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/cjk/texinput/GB/c19song.fd
+File: c19song.fd 2015/04/18 4.8.4
+)<<c1939.cmap>>
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<<c1977.cmap>>
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+<<c1975.cmap>><<c1930.cmap>><<c1910.cmap>><<c1917.cmap>>
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Undefined control sequence.
+<recently read> �
+                 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<<c1914.cmap>><<c1945.cmap>><<c1938.cmap>><<c1934.cmap>><<c1976.cmap>><<c1916.cmap>><<c1929.cmap>><<c1942.cmap>><<c1903.cmap>><<c1905.cmap>><<c1901.cmap>>
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Undefined control sequence.
+<recently read> �
+                 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing = inserted for \ifnum.
+<to be read again> 
+                   \endcsname 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing = inserted for \ifnum.
+<to be read again> 
+                   \endcsname 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing = inserted for \ifnum.
+<to be read again> 
+                   \endcsname 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:45: Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.45 ...�算法教学中的重要性}{nty/global/}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing \endcsname inserted.
+<to be read again> 
+                   \CJK@disableMakeUppercase 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Argument of \CJK@XX has an extra }.
+<inserted text> 
+                \par 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<<c1911.cmap>>
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+<<c1915.cmap>><<c1912.cmap>><<c1921.cmap>><<c1909.cmap>><<c1919.cmap>><<c1943.cmap>>
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing = inserted for \ifnum.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing = inserted for \ifnum.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing = inserted for \ifnum.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing = inserted for \ifnum.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:46: Bad character code (-30).
+<argument> \@tempcnta 
+                      
+l.46 ...�克莱姆法则中的应用}{nty/global/}
+                                                  
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing \endcsname inserted.
+<to be read again> 
+                   \CJK@disableMakeUppercase 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Argument of \CJK@XX has an extra }.
+<inserted text> 
+                \par 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<<c1974.cmap>>
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+<<c1946.cmap>><<c1906.cmap>>
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing = inserted for \ifnum.
+<to be read again> 
+                   \endcsname 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing = inserted for \ifnum.
+<to be read again> 
+                   \endcsname 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Extra \endcsname.
+<recently read> \endcsname 
+                           
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+I'm ignoring this, since I wasn't doing a \csname.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Improper alphabetic constant.
+<to be read again> 
+                   \endcsname 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing = inserted for \ifnum.
+<to be read again> 
+                   \endcsname 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+I was expecting to see `<', `=', or `>'. Didn't.
+
+/Users/xuedi/Desktop/project 1/.texpadtmp/test.aux:47: Missing number, treated as zero.
+<to be read again> 
+                   \endcsname 
+l.47 ...东2008算法设计与分析}{nty/global/}
+                                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 18.
+ (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+Underfull \hbox (badness 10000) in paragraph at lines 47--13
+[]\C19/song/m/n/10.53937/09 ^^Q \C19/song/m/n/10.53937/19 " \C19/song/m/n/10.53937/74 �\OT1/cmr/m/n/10.53937 008\C19/song/m/n/10.53937/77 ! \C19/song/m/n/10.53937/17 � \C19/song/m/n/10.53937/38 p \C19/song/m/n/10.53937/77 � \C19/song/m/n/10.53937/46 � \C19/song/m/n/10.53937/34 � \C19/song/m/n/10.53937/74 � \C19/song/m/n/10.53937/11 J \C19/song/m/n/10.53937/06 w \C19/song/m/n/10.53937/76 S
+ []
+
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count347
+\scratchdimen=\dimen156
+\scratchbox=\box54
+\nofMPsegments=\count348
+\nofMParguments=\count349
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count350
+\MPscratchDim=\dimen157
+\MPnumerator=\count351
+\makeMPintoPDFobject=\count352
+\everyMPtoPDFconversion=\toks27
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+Package biblatex Info: No input encoding detected.
+(biblatex)             Assuming 'ascii'.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'ascii'.
+\openout4 = `test.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+
+
+Package biblatex Warning: File 'test.bbl' is wrong format version - expected 2.8.
+
+Package biblatex Info: ... file 'test.bbl' found.
+(/Users/xuedi/Desktop/project 1/.texpadtmp/test.bbl)
+Package biblatex Info: Reference section=0 on input line 18.
+Package biblatex Info: Reference segment=0 on input line 18.
+ [1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]<<c1920.cmap>><<c1923.cmap>>
+Runaway argument?
+./test.tex:24: Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.24 \maketitle
+               
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+<<c1918.cmap>>
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+<<c1973.cmap>><<c1922.cmap>>
+./test.tex:24: Undefined control sequence.
+<recently read> �
+                 
+l.24 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:24: Improper alphabetic constant.
+<to be read again> 
+                   \footnote 
+l.24 \maketitle
+               
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+./test.tex:24: Missing = inserted for \ifnum.
+<to be read again> 
+                   \let 
+l.24 \maketitle
+               
+I was expecting to see `<', `=', or `>'. Didn't.
+
+./test.tex:24: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.24 \maketitle
+               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./test.tex:24: Improper alphabetic constant.
+<to be read again> 
+                   \footnote 
+l.24 \maketitle
+               
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+./test.tex:24: Missing = inserted for \ifnum.
+<to be read again> 
+                   \let 
+l.24 \maketitle
+               
+I was expecting to see `<', `=', or `>'. Didn't.
+
+./test.tex:24: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.24 \maketitle
+               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./test.tex:24: Improper alphabetic constant.
+<to be read again> 
+                   \footnote 
+l.24 \maketitle
+               
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+./test.tex:24: Improper alphabetic constant.
+<to be read again> 
+                   \footnote 
+l.24 \maketitle
+               
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+./test.tex:24: Missing = inserted for \ifnum.
+<to be read again> 
+                   \let 
+l.24 \maketitle
+               
+I was expecting to see `<', `=', or `>'. Didn't.
+
+./test.tex:24: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.24 \maketitle
+               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./test.tex:24: Improper alphabetic constant.
+<to be read again> 
+                   \footnote 
+l.24 \maketitle
+               
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+./test.tex:24: Missing = inserted for \ifnum.
+<to be read again> 
+                   \let 
+l.24 \maketitle
+               
+I was expecting to see `<', `=', or `>'. Didn't.
+
+./test.tex:24: Missing number, treated as zero.
+<to be read again> 
+                   \let 
+l.24 \maketitle
+               
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+<<c1924.cmap>>
+./test.tex:24: Bad character code (-204).
+<argument> \@tempcnta 
+                      
+l.24 \maketitle
+               
+A character number must be between 0 and 255.
+I changed this one to zero.
+
+
+./test.tex:24: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \maketitle
+               
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+<<c1913.cmap>><<c1904.cmap>><<c1925.cmap>>
+Package CJKpunct Info: punctuation spaces for family 'song' do not exist. Use family 'def' instead. on input line 24.
+
+./test.tex:24: Undefined control sequence.
+<recently read> �
+                 
+l.24 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<<c1935.cmap>><<c1944.cmap>>
+./test.tex:24: Undefined control sequence.
+<recently read> �
+                 
+l.24 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:24: Undefined control sequence.
+<argument> 地址
+                 ：北京市海淀区清华大学东主楼 
+l.24 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:24: Undefined control sequence.
+<argument> 地址：北京市海淀
+                                   区清华大学东主楼 
+l.24 \maketitle
+               
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <5> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+<<c1978.cmap>>
+
+./test.tex:24: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \maketitle
+               
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+<<c1936.cmap>><<c1902.cmap>><<c1940.cmap>><<c1927.cmap>><<c1928.cmap>><<c1983.cmap>>
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
+(Font)              size <10.95> substituted on input line 25.
+
+<<c1932.cmap>>
+
+./test.tex:25: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...问题指的是，对 $n$ 个不同的数$
+                                                  p_1 \sim p_n$，如何无�...
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+./test.tex:25: Missing $ inserted.
+<inserted text> 
+                $
+l.25 ...�题指的是，对 $n$ 个不同的数$p_
+                                                  1 \sim p_n$，如何无重...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+./test.tex:25: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...$，如何无重复无遗漏地生成这 $
+                                                  n$ 个数的所有全排�...
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+<<c1907.cmap>><<c1947.cmap>>
+./test.tex:25: Undefined control sequence.
+<recently read> �
+                 
+l.25 ...列的应用很广泛，然而复杂度往
+                                                  往过高，限制了其�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:25: Undefined control sequence.
+<recently read> �
+                 
+l.25 ...的应用很广泛，然而复杂度往往
+                                                  过高，限制了其应�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<<c1933.cmap>>
+./test.tex:25: Undefined control sequence.
+<recently read> �
+                 
+l.25 ...�对字典序法，递增进位制法，�
+                                                  �减 进位制法和邻位...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<<c1926.cmap>>
+./test.tex:25: Undefined control sequence.
+<recently read> �
+                 
+l.25 ...四种全排列经典算法的研究基础
+                                                  上，优化了邻位对�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<<c1908.cmap>>
+./test.tex:25: Undefined control sequence.
+<recently read> �
+                 
+l.25 ...�基础上，优化了邻位对换法和�
+                                                  �减进位制数法，提�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:25: Undefined control sequence.
+<recently read> �
+                 
+l.25 ...了两 种算法的运行效率，同时�
+                                                  �过实验对四种经典�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<<c1931.cmap>>
+./test.tex:25: Undefined control sequence.
+<recently read> �
+                 
+l.25 ...�优化后的算法进行了综合比较�
+                                                  �对相关算法的进一�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:25: Undefined control sequence.
+<recently read> �
+                 
+l.25 ...了综合比较。对相关算法的进一
+                                                  步改进 和新算法的�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<<c1941.cmap>>
+Runaway argument?
+./test.tex:26: Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.26 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./test.tex:26: Missing $ inserted.
+<inserted text> 
+                $
+l.26 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+Missing character: There is no � in font cmr10!
+
+Underfull \hbox (badness 4859) in paragraph at lines 25--26
+[]\C19/song/m/n/10.53937/75 | \C19/song/m/n/10.53937/30 � \C19/song/m/n/10.53937/10 � \C19/song/m/n/10.53937/75 ^^? \C19/song/m/n/10.53937/17 � \C19/song/m/n/10.53937/15 x \C19/song/m/n/10.53937/76 = \C19/song/m/n/10.53937/12 � \C19/song/m/n/10.53937/17 � \C19/song/m/n/10.53937/78 � \C19/song/m/n/10.53937/18 � \C19/song/m/n/10.53937/09 p \C19/song/m/n/10.53937/77 ^^M \C19/song/m/n/10.53937/03 � \C19/song/m/n/10.53937/18 �
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 25--26
+\C19/song/m/n/10.53937/83 ^^_ \C19/song/m/n/10.53937/09 � \C19/song/m/n/10.53937/35 � $\OML/cmm/m/it/10.53937 n$ \C19/song/m/n/10.53937/74 � \C19/song/m/n/10.53937/32 ^^Q \C19/song/m/n/10.53937/42 ^^^ \C19/song/m/n/10.53937/75 � \C19/song/m/n/10.53937/09 � \C19/song/m/n/10.53937/19 � \C19/song/m/n/10.53937/76 J\OT1/cmr/m/n/10.53937 p$[] \OMS/cmsy/m/n/10.53937 ^^X \OML/cmm/m/it/10.53937 p[]$\C19/song/m/n/10.53937/83 ^^_ \C19/song/m/n/10.53937/09 �
+ []
+
+
+Underfull \hbox (badness 6978) in paragraph at lines 25--26
+\C19/song/m/n/10.53937/28 � \C19/song/m/n/10.53937/74 � \C19/song/m/n/10.53937/16 } \C19/song/m/n/10.53937/17 � \C19/song/m/n/10.53937/78 v \C19/song/m/n/10.53937/10 � \C19/song/m/n/10.53937/27 F \C19/song/m/n/10.53937/76 L \C19/song/m/n/10.53937/24 � \C19/song/m/n/10.53937/01 V \C19/song/m/n/10.53937/76 q \C19/song/m/n/10.53937/12 ^^H \C19/song/m/n/10.53937/21 y \C19/song/m/n/10.53937/77 ^^G \C19/song/m/n/10.53937/23 � \C19/song/m/n/10.53937/06 �
+ []
+
+
+Overfull \hbox (529.00554pt too wide) in paragraph at lines 25--26
+\C19/song/m/n/10.53937/77 �\OT1/cmr/m/n/10.53937 n$[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]$ 
+ []
+
+./test.tex:31: Undefined control sequence.
+<argument> ...me {\CTEXthesection \quad }{} 前言
+                                                   
+l.31 \section{ 前言 }
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:31: Undefined control sequence.
+<argument>  前言
+                   
+l.31 \section{ 前言 }
+                       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+<<c1937.cmap>>
+Runaway argument?
+./test.tex:33: Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.33 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+./test.tex:36: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 ...�成是指无重复无遗漏的列举出 1
+                                                   到 n 的所有排列。�...
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+./test.tex:36: Undefined control sequence.
+<recently read> �
+                 
+l.36 ...�漏的列举出 1 到 n 的所有排列�
+                                                  �对于全排列生成的�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:36: Undefined control sequence.
+<recently read> �
+                 
+l.36 ...��历史，1956年，C. Tompkins 写了一
+                                                  篇论文介绍了一些�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:36: Undefined control sequence.
+<recently read> �
+                 
+l.36 ...C. Tompkins 写了一篇论文介绍了一
+                                                  些用全排列生成算�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:36: Undefined control sequence.
+<recently read> �
+                 
+l.36 ...s1956Machine}。由于其算法的复杂�
+                                                  �和多样 性已经成为...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:36: Undefined control sequence.
+<recently read> �
+                 
+l.36 ...法则中的应用}，求出栈顺序等�
+                                                  �全排列生成问题经�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:36: Undefined control sequence.
+<argument> 吴素萍2008全排列�
+                                   �归算法在算法教学中的重要性,...
+l.36 ...学中的重要性,Dijkstra1979discipline}
+                                                  ）。针对全排列的�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:36: Undefined control sequence.
+<argument> ...�算法在算法教学中的重要�
+                                                  �,Dijkstra1979discipline
+l.36 ...学中的重要性,Dijkstra1979discipline}
+                                                  ）。针对全排列的�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+LaTeX Warning: Citation '吴素萍2008全排列�归算法在算法教学中的重要�' on page 2 undefined on input line 36.
+
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+Missing character: There is no � in font cmbx10!
+./test.tex:36: Undefined control sequence.
+<recently read> �
+                 
+l.36 ...�的重要性,Dijkstra1979discipline}）�
+                                                  �针对全排列的生成�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:36: Undefined control sequence.
+<recently read> �
+                 
+l.36 ...�有字典序法，递增进位制法，�
+                                                  �减进位制法， 邻位...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Runaway argument?
+./test.tex:37: Paragraph ended before \CJK@XX was complete.
+<to be read again> 
+                   \par 
+l.37 
+     
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+./test.tex:38: Undefined control sequence.
+<recently read> �
+                 
+l.38 ...的前四种算法进行改进和实 现�
+                                                  �本文的工作如下：\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.53937> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+
+./test.tex:40: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 ...��个全排列生成算法的基本原理;
+                                                  
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+./test.tex:41: Undefined control sequence.
+<recently read> �
+                 
+l.41   \item 优化改进了邻位对换法和�
+                                                �减进位制法， 优化�...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./test.tex:41: Package CJK Error: Invalid character code.
+
+See the CJK package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...�均比原算法的效率提高了接近 5
+                                                  0\% ;
+The second byte of the CJK code is out of range.
+Do you use the right encoding scheme?
+
+[2
+
+]
+./test.tex:42: Undefined control sequence.
+<recently read> �
+                 
+l.42 ...�排列生成算法和改进后的算法�
+                                                  �
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./test.tex:43: Improper alphabetic constant.
+<to be read again> 
+                   \end 
+l.43 \end
+         {itemize}
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+./test.tex:43: Missing = inserted for \ifnum.
+<to be read again> 
+                   \end< 
+l.43 \end
+         {itemize}
+I was expecting to see `<', `=', or `>'. Didn't.
+
+./test.tex:43: Missing number, treated as zero.
+<to be read again> 
+                   \end< 
+l.43 \end
+         {itemize}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./test.tex:43: Improper alphabetic constant.
+<to be read again> 
+                   \end 
+l.43 \end
+         {itemize}
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+./test.tex:43: Missing = inserted for \ifnum.
+<to be read again> 
+                   \end> 
+l.43 \end
+         {itemize}
+I was expecting to see `<', `=', or `>'. Didn't.
+
+./test.tex:43: Missing number, treated as zero.
+<to be read again> 
+                   \end> 
+l.43 \end
+         {itemize}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+./test.tex:43: Improper alphabetic constant.
+<to be read again> 
+                   \end 
+l.43 \end
+         {itemize}
+A one-character control sequence belongs after a ` mark.
+So I'm essentially inserting \0 here.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+./test.tex:43: Missing \endcsname inserted.
+<to be read again> 
+                   \relax 
+l.43 \end
+         {itemize}
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 20707 strings out of 492995
+ 392851 string characters out of 6132705
+ 786888 words of memory out of 5000000
+ 23872 multiletter control sequences out of 15000+600000
+ 43858 words of font info for 162 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 51i,13n,56p,10426b,1063s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+./test.tex:43:  ==> Fatal error occurred, no output PDF file produced!

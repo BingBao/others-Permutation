@@ -1,0 +1,139 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nty/global/}
+    \entry{Dijkstra1979discipline}{article}{}
+      \name{author}{1}{}{%
+        {{hash=44813d9969c3b392da8526eced3f7470}{%
+           family={Dijkstra},
+           family_i={D\bibinitperiod},
+           given={Edsger\bibnamedelima Wybe},
+           given_i={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{44813d9969c3b392da8526eced3f7470}
+      \strng{fullhash}{44813d9969c3b392da8526eced3f7470}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{discipline of programming}
+      \field{year}{1979}
+    \endentry
+    \entry{Tompkins1956Machine}{article}{}
+      \name{author}{1}{}{%
+        {{hash=48045bf06d2213dcaed01016199508ae}{%
+           family={Tompkins},
+           family_i={T\bibinitperiod},
+           given={C},
+           given_i={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{48045bf06d2213dcaed01016199508ae}
+      \strng{fullhash}{48045bf06d2213dcaed01016199508ae}
+      \field{sortinit}{T}
+      \field{sortinithash}{423d138a005a533b47e6475e39378bf2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of Symposia in Applied Mathematics, vol. VI, Numerical Analysis, McGraw-Hill}
+      \field{title}{Machine attacks on problems whose variables are permutations}
+      \field{year}{1956}
+      \field{pages}{195\bibrangedash 211}
+      \range{pages}{17}
+    \endentry
+    \entry{吴素萍2008全排列递归算法在算法教学中的重要性}{article}{}
+      \name{author}{1}{}{%
+        {{hash=55e709c340973fc07e1f54e012cdeb42}{%
+           family={吴素萍},
+           family_i={吴\bibinitperiod}}}%
+      }
+      \strng{namehash}{55e709c340973fc07e1f54e012cdeb42}
+      \strng{fullhash}{55e709c340973fc07e1f54e012cdeb42}
+      \field{sortinit}{吴}
+      \field{sortinithash}{8e87dc69f25fd8cafd751074c5421520}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{现代计算机:专业版}
+      \field{number}{12}
+      \field{title}{全排列递归算法在算法教学中的重要性}
+      \field{year}{2008}
+      \field{pages}{119\bibrangedash 120}
+      \range{pages}{2}
+    \endentry
+    \entry{李模刚2010全排列生成算法在克莱姆法则中的应用}{article}{}
+      \name{author}{1}{}{%
+        {{hash=731dab13560592a89b6e5472d02b1f1a}{%
+           family={李模刚},
+           family_i={李\bibinitperiod}}}%
+      }
+      \strng{namehash}{731dab13560592a89b6e5472d02b1f1a}
+      \strng{fullhash}{731dab13560592a89b6e5472d02b1f1a}
+      \field{sortinit}{李}
+      \field{sortinithash}{87a9fd4641bb616da89b0f1e084fa281}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{现代计算机:专业版}
+      \field{number}{9}
+      \field{title}{全排列生成算法在克莱姆法则中的应用}
+      \field{year}{2010}
+      \field{pages}{13\bibrangedash 15}
+      \range{pages}{3}
+    \endentry
+    \entry{王晓东2008算法设计与分析}{book}{}
+      \name{author}{1}{}{%
+        {{hash=00a57f18f4b74fd140b0b48feb5004b2}{%
+           family={王晓东},
+           family_i={王\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {清华大学出版社}%
+      }
+      \strng{namehash}{00a57f18f4b74fd140b0b48feb5004b2}
+      \strng{fullhash}{00a57f18f4b74fd140b0b48feb5004b2}
+      \field{sortinit}{王}
+      \field{sortinithash}{a5fc2a92fb09729180a9a8525cb1db30}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{算法设计与分析-第2版}
+      \field{year}{2008}
+    \endentry
+    \entry{chenweidong}{article}{}
+      \name{author}{1}{}{%
+        {{hash=70c7237ebe1af698ab798712cfb69946}{%
+           family={陈卫东},
+           family_i={陈\bibinitperiod},
+           given={鲍苏苏},
+           given_i={鲍\bibinitperiod}}}%
+      }
+      \strng{namehash}{70c7237ebe1af698ab798712cfb69946}
+      \strng{fullhash}{70c7237ebe1af698ab798712cfb69946}
+      \field{sortinit}{陈}
+      \field{sortinithash}{f97a30f7cde1492ba692235ae4cf11ee}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{现代计算机:专业版}
+      \field{number}{8}
+      \field{title}{排序算法与全排列生成算法研究}
+      \field{year}{2007}
+      \field{pages}{4\bibrangedash 7}
+      \range{pages}{4}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
